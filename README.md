@@ -7,8 +7,7 @@
 > —
 >
 > `self-taught the engineering parts;`  
-> `still figuring out which parts`  
-> `i actually understand.`
+> `still figuring out which parts i actually understand.`
 
 <br>
 
