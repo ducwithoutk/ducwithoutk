@@ -1,24 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 168" preserveAspectRatio="xMidYMid meet">
-<style>    @keyframes fadeIn{from{opacity:0}to{opacity:1}}
-    @keyframes scaleIn{
-      from{opacity:0;transform-box:fill-box;transform-origin:center;transform:scale(.85)}
-      to  {opacity:1;transform-box:fill-box;transform-origin:center;transform:scale(1)}
-    }
-    @keyframes caretBlink{0%,100%{opacity:1}50%{opacity:0}}
-    .f0{animation:fadeIn .35s 0s    ease-out both}
-    .f1{animation:fadeIn .3s  .35s  ease-out both}
-    .f2{animation:fadeIn .3s  .55s  ease-out both}
-    .f3{animation:fadeIn .3s  .70s  ease-out both}
-    .f4{animation:fadeIn .3s  .84s  ease-out both}
-    .f5{animation:fadeIn .3s  .98s  ease-out both}
-    .f6{animation:fadeIn .3s  1.10s ease-out both}
-    .sq0{animation:scaleIn .35s .60s ease-out both}
-    .sq1{animation:scaleIn .35s .85s ease-out both}
-    .cr{animation:caretBlink .5s 1.7s step-start 3 forwards}</style>
+<style>@keyframes fadeIn{from{opacity:0}to{opacity:1}}@keyframes scaleIn{from{opacity:0;transform-box:fill-box;transform-origin:center;transform:scale(.85)}to{opacity:1;transform-box:fill-box;transform-origin:center;transform:scale(1)}}@keyframes caretBlink{0%,100%{opacity:1}50%{opacity:0}}.f0{animation:fadeIn .35s 0s ease-out both}.f1{animation:fadeIn .3s .35s ease-out both}.f2{animation:fadeIn .3s .55s ease-out both}.f3{animation:fadeIn .3s .70s ease-out both}.f4{animation:fadeIn .3s .84s ease-out both}.f5{animation:fadeIn .3s .98s ease-out both}.f6{animation:fadeIn .3s 1.10s ease-out both}.sq0{animation:scaleIn .35s .60s ease-out both}.sq1{animation:scaleIn .35s .85s ease-out both}.cr{animation:caretBlink .5s 1.7s step-start 3 forwards}</style>
 <rect class="f0" x=".5" y=".5" width="799" height="167" rx="7" fill="#0f0e0c" stroke="#2d2820" stroke-width="1"/>
 <line class="f0" x1=".5" y1="30" x2="799.5" y2="30" stroke="#2d2820" stroke-width="1"/>
 <text class="f1" x="14" y="20" font-family="'Courier New', Courier, monospace" font-size="12" fill="#e8812b">README.md</text>
-<text class="f1" x="786" y="20" font-family="'Courier New', Courier, monospace" font-size="12" fill="#e8812b" text-anchor="end">7.9k contributions</text>
+<text class="f1" x="786" y="20" font-family="'Courier New', Courier, monospace" font-size="12" fill="#e8812b" text-anchor="end">570 contributions</text>
 <text class="f2" x="14" y="48" font-family="'Courier New', Courier, monospace" font-size="12" fill="#e8812b">// intro</text>
 <text class="cr" x="72" y="48" font-family="'Courier New', Courier, monospace" font-size="12" fill="#e8812b">&#9612;</text>
 <text class="sq0" x="10" y="92" font-family="Georgia, 'Times New Roman', serif" font-size="48" fill="#e8812b">“</text>
